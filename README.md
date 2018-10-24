@@ -1,0 +1,1 @@
+This is Kim's (k1m1kaz3's) first git project!"
